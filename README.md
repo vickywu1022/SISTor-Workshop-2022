@@ -9,7 +9,7 @@ Materials for **Algorithm and Data Structure** of SISTor互助工坊 in 2022 Fal
 | week 3 |       divide and conquer        |
 | week 4 |   tree,bfs, dfs, binary tree    |
 | week 5 |     Heap, BST, Disjoint Set     |
-| week 6 |    AVLT, RBT, Huffman Tree      |
+| week 6 |        AVLT, Huffman Tree       |
 | week 7 |              graph1             |
 | week 8 |              graph2             |
 | week 9 |              greedy             |
