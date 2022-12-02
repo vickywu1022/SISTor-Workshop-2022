@@ -12,5 +12,5 @@ Materials for **Algorithm and Data Structure** of SISTor互助工坊 in 2022 Fal
 | week 6 |        AVLT, Huffman Tree       |
 | week 7 |        graph, bfs, dfs, MST     |
 | week 8 |  topological sort, critical path, shortest path  |
-| week 9 |              greedy             |
+| week 9 |              KMP, greedy        |
 | week 10|     dynamic programming, P/NP   |
